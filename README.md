@@ -2,4 +2,6 @@
 
 This repository is applied to introduce some basic principles of dictionary learning.  
 
-Most materials are based on the course by Prof. Ng
+Most materials are based on the course by Prof. Andrew Ng
+
+Source: <https://www.coursera.org/learn/machine-learning/>
