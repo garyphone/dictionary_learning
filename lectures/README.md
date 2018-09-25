@@ -11,3 +11,5 @@
 * Linear Algebra Review
 
 ## Week 2
+
+* Multivariante Linear Regression
