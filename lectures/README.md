@@ -1,6 +1,6 @@
 # Lectures Overview
 
-## Week 1
+## Lecture 1
 
 * Introduction
 
@@ -10,7 +10,7 @@
 
 * Linear Algebra Review
 
-## Week 2
+## Lecture 2
 
 * Multivariante Linear Regression
 
