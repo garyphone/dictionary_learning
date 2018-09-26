@@ -13,3 +13,5 @@
 ## Week 2
 
 * Multivariante Linear Regression
+
+* Computing Parameters Analytically
