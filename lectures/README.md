@@ -15,3 +15,7 @@
 * Multivariante Linear Regression
 
 * Computing Parameters Analytically
+
+## Lecture 3
+
+* Classification and Representation
