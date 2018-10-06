@@ -19,3 +19,9 @@
 ## Lecture 3
 
 * Classification and Representation
+
+* Logistic Regression Model
+
+* Multiclass Classification
+
+* Solving the Problem of Overfitting
