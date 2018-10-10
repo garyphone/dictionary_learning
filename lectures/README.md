@@ -31,3 +31,8 @@
 * Neural Networks
 
 * Applications
+
+
+## Lecture 5
+
+* Cost Function and Backpropagation
