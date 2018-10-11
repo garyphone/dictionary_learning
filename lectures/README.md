@@ -36,3 +36,5 @@
 ## Lecture 5
 
 * Cost Function and Backpropagation
+
+* Backpropagation in Practice
