@@ -38,3 +38,9 @@
 * Cost Function and Backpropagation
 
 * Backpropagation in Practice
+
+## Lecture 6
+
+* Evaluating a Learning algorithm
+
+* Bias vs. Variance
